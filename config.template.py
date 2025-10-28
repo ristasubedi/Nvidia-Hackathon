@@ -1,14 +1,13 @@
 """
-Configuration file for AI Fashion Stylist
-Contains API keys and model settings
+Configuration template for AI Fashion Stylist
+Copy this to config.py and add your actual API keys
 """
 
 import os
 
 # NVIDIA API Configuration
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "your-nvidia-api-key-here"  # Replace with your actual NVIDIA API key
 NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
-
 
 # Application Settings
 MAX_TOKENS = 1000

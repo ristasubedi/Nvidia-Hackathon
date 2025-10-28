@@ -18,5 +18,495 @@
     "color": "white",
     "material": "cotton",
     "sustainability": 0.8
+  },
+  {
+    "id": "black_trousers",
+    "category": "bottom",
+    "style": "semi-formal",
+    "formality": 7,
+    "weather": "mild",
+    "color": "black",
+    "material": "polyester",
+    "sustainability": 0.6
+  },
+  {
+    "id": "brown_leather_shoes",
+    "category": "footwear",
+    "style": "semi-formal",
+    "formality": 8,
+    "weather": "mild",
+    "color": "brown",
+    "material": "leather",
+    "sustainability": 0.5
+  },
+  {
+    "id": "vintage_denim_jacket",
+    "category": "outerwear",
+    "style": "casual",
+    "formality": 2,
+    "weather": "cool",
+    "color": "blue",
+    "material": "denim",
+    "sustainability": 0.85
+  },
+  {
+    "id": "graphic_tee",
+    "category": "top",
+    "style": "casual",
+    "formality": 1,
+    "weather": "warm",
+    "color": "red",
+    "material": "cotton",
+    "sustainability": 0.7
+  },
+  {
+    "id": "ripped_jeans",
+    "category": "bottom",
+    "style": "casual",
+    "formality": 1,
+    "weather": "mild",
+    "color": "blue",
+    "material": "denim",
+    "sustainability": 0.6
+  },
+  {
+    "id": "white_sneakers",
+    "category": "footwear",
+    "style": "casual",
+    "formality": 2,
+    "weather": "mild",
+    "color": "white",
+    "material": "synthetic",
+    "sustainability": 0.4
+  },
+  {
+    "id": "black_tuxedo",
+    "category": "outerwear",
+    "style": "formal",
+    "formality": 10,
+    "weather": "cool",
+    "color": "black",
+    "material": "wool",
+    "sustainability": 0.8
+  },
+  {
+    "id": "bow_tie",
+    "category": "accessory",
+    "style": "formal",
+    "formality": 10,
+    "weather": "mild",
+    "color": "black",
+    "material": "silk",
+    "sustainability": 0.9
+  },
+  {
+    "id": "patent_leather_shoes",
+    "category": "footwear",
+    "style": "formal",
+    "formality": 10,
+    "weather": "mild",
+    "color": "black",
+    "material": "leather",
+    "sustainability": 0.6
+  },
+  {
+    "id": "emerald_cocktail_dress",
+    "category": "dress",
+    "style": "formal",
+    "formality": 9,
+    "weather": "mild",
+    "color": "green",
+    "material": "silk",
+    "sustainability": 0.8
+  },
+  {
+    "id": "cashmere_sweater",
+    "category": "top",
+    "style": "semi-formal",
+    "formality": 6,
+    "weather": "cold",
+    "color": "beige",
+    "material": "cashmere",
+    "sustainability": 0.9
+  },
+  {
+    "id": "wool_coat",
+    "category": "outerwear",
+    "style": "formal",
+    "formality": 8,
+    "weather": "cold",
+    "color": "grey",
+    "material": "wool",
+    "sustainability": 0.95
+  },
+  {
+    "id": "leather_boots",
+    "category": "footwear",
+    "style": "casual",
+    "formality": 4,
+    "weather": "cold",
+    "color": "brown",
+    "material": "leather",
+    "sustainability": 0.7
+  },
+  {
+    "id": "summer_sundress",
+    "category": "dress",
+    "style": "casual",
+    "formality": 3,
+    "weather": "warm",
+    "color": "yellow",
+    "material": "cotton",
+    "sustainability": 0.8
+  },
+  {
+    "id": "linen_shorts",
+    "category": "bottom",
+    "style": "casual",
+    "formality": 2,
+    "weather": "warm",
+    "color": "khaki",
+    "material": "linen",
+    "sustainability": 0.9
+  },
+  {
+    "id": "tank_top",
+    "category": "top",
+    "style": "casual",
+    "formality": 1,
+    "weather": "warm",
+    "color": "white",
+    "material": "cotton",
+    "sustainability": 0.7
+  },
+  {
+    "id": "flip_flops",
+    "category": "footwear",
+    "style": "casual",
+    "formality": 1,
+    "weather": "warm",
+    "color": "blue",
+    "material": "rubber",
+    "sustainability": 0.3
+  },
+  {
+    "id": "business_suit_grey",
+    "category": "suit",
+    "style": "formal",
+    "formality": 9,
+    "weather": "mild",
+    "color": "grey",
+    "material": "wool",
+    "sustainability": 0.85
+  },
+  {
+    "id": "silk_blouse",
+    "category": "top",
+    "style": "semi-formal",
+    "formality": 7,
+    "weather": "mild",
+    "color": "cream",
+    "material": "silk",
+    "sustainability": 0.8
+  },
+  {
+    "id": "pencil_skirt",
+    "category": "bottom",
+    "style": "semi-formal",
+    "formality": 7,
+    "weather": "mild",
+    "color": "navy",
+    "material": "polyester",
+    "sustainability": 0.5
+  },
+  {
+    "id": "heels_black",
+    "category": "footwear",
+    "style": "semi-formal",
+    "formality": 8,
+    "weather": "mild",
+    "color": "black",
+    "material": "leather",
+    "sustainability": 0.6
+  },
+  {
+    "id": "bomber_jacket",
+    "category": "outerwear",
+    "style": "casual",
+    "formality": 3,
+    "weather": "cool",
+    "color": "olive",
+    "material": "nylon",
+    "sustainability": 0.4
+  },
+  {
+    "id": "hoodie_grey",
+    "category": "top",
+    "style": "casual",
+    "formality": 2,
+    "weather": "cool",
+    "color": "grey",
+    "material": "cotton",
+    "sustainability": 0.6
+  },
+  {
+    "id": "joggers",
+    "category": "bottom",
+    "style": "casual",
+    "formality": 1,
+    "weather": "mild",
+    "color": "black",
+    "material": "polyester",
+    "sustainability": 0.4
+  },
+  {
+    "id": "running_shoes",
+    "category": "footwear",
+    "style": "casual",
+    "formality": 1,
+    "weather": "mild",
+    "color": "multi",
+    "material": "synthetic",
+    "sustainability": 0.3
+  },
+  {
+    "id": "maxi_dress_floral",
+    "category": "dress",
+    "style": "casual",
+    "formality": 4,
+    "weather": "warm",
+    "color": "floral",
+    "material": "viscose",
+    "sustainability": 0.7
+  },
+  {
+    "id": "cardigan_wool",
+    "category": "outerwear",
+    "style": "casual",
+    "formality": 4,
+    "weather": "cool",
+    "color": "burgundy",
+    "material": "wool",
+    "sustainability": 0.9
+  },
+  {
+    "id": "chinos_navy",
+    "category": "bottom",
+    "style": "semi-formal",
+    "formality": 5,
+    "weather": "mild",
+    "color": "navy",
+    "material": "cotton",
+    "sustainability": 0.8
+  },
+  {
+    "id": "loafers_brown",
+    "category": "footwear",
+    "style": "semi-formal",
+    "formality": 6,
+    "weather": "mild",
+    "color": "brown",
+    "material": "leather",
+    "sustainability": 0.7
+  },
+  {
+    "id": "turtleneck_black",
+    "category": "top",
+    "style": "semi-formal",
+    "formality": 6,
+    "weather": "cool",
+    "color": "black",
+    "material": "merino",
+    "sustainability": 0.9
+  },
+  {
+    "id": "puffer_jacket",
+    "category": "outerwear",
+    "style": "casual",
+    "formality": 3,
+    "weather": "cold",
+    "color": "red",
+    "material": "nylon",
+    "sustainability": 0.5
+  },
+  {
+    "id": "thermal_leggings",
+    "category": "bottom",
+    "style": "casual",
+    "formality": 2,
+    "weather": "cold",
+    "color": "black",
+    "material": "synthetic",
+    "sustainability": 0.4
+  },
+  {
+    "id": "winter_boots",
+    "category": "footwear",
+    "style": "casual",
+    "formality": 3,
+    "weather": "cold",
+    "color": "black",
+    "material": "leather",
+    "sustainability": 0.8
+  },
+  {
+    "id": "polo_shirt",
+    "category": "top",
+    "style": "casual",
+    "formality": 4,
+    "weather": "warm",
+    "color": "navy",
+    "material": "cotton",
+    "sustainability": 0.7
+  },
+  {
+    "id": "khaki_shorts",
+    "category": "bottom",
+    "style": "casual",
+    "formality": 3,
+    "weather": "warm",
+    "color": "khaki",
+    "material": "cotton",
+    "sustainability": 0.8
+  },
+  {
+    "id": "boat_shoes",
+    "category": "footwear",
+    "style": "casual",
+    "formality": 4,
+    "weather": "warm",
+    "color": "brown",
+    "material": "leather",
+    "sustainability": 0.7
+  },
+  {
+    "id": "wrap_dress",
+    "category": "dress",
+    "style": "semi-formal",
+    "formality": 6,
+    "weather": "mild",
+    "color": "purple",
+    "material": "jersey",
+    "sustainability": 0.6
+  },
+  {
+    "id": "blazer_linen",
+    "category": "outerwear",
+    "style": "semi-formal",
+    "formality": 6,
+    "weather": "warm",
+    "color": "white",
+    "material": "linen",
+    "sustainability": 0.9
+  },
+  {
+    "id": "wide_leg_pants",
+    "category": "bottom",
+    "style": "semi-formal",
+    "formality": 5,
+    "weather": "mild",
+    "color": "camel",
+    "material": "viscose",
+    "sustainability": 0.6
+  },
+  {
+    "id": "block_heels",
+    "category": "footwear",
+    "style": "semi-formal",
+    "formality": 7,
+    "weather": "mild",
+    "color": "nude",
+    "material": "leather",
+    "sustainability": 0.6
+  },
+  {
+    "id": "evening_gown",
+    "category": "dress",
+    "style": "formal",
+    "formality": 10,
+    "weather": "mild",
+    "color": "midnight_blue",
+    "material": "satin",
+    "sustainability": 0.7
+  },
+  {
+    "id": "vest_wool",
+    "category": "top",
+    "style": "formal",
+    "formality": 8,
+    "weather": "cool",
+    "color": "charcoal",
+    "material": "wool",
+    "sustainability": 0.9
+  },
+  {
+    "id": "dress_shirt_striped",
+    "category": "top",
+    "style": "formal",
+    "formality": 8,
+    "weather": "mild",
+    "color": "blue",
+    "material": "cotton",
+    "sustainability": 0.8
+  },
+  {
+    "id": "oxford_shoes",
+    "category": "footwear",
+    "style": "formal",
+    "formality": 9,
+    "weather": "mild",
+    "color": "black",
+    "material": "leather",
+    "sustainability": 0.8
+  },
+  {
+    "id": "midi_skirt",
+    "category": "bottom",
+    "style": "semi-formal",
+    "formality": 6,
+    "weather": "mild",
+    "color": "emerald",
+    "material": "cotton",
+    "sustainability": 0.8
+  },
+  {
+    "id": "cropped_jacket",
+    "category": "outerwear",
+    "style": "semi-formal",
+    "formality": 5,
+    "weather": "cool",
+    "color": "pink",
+    "material": "tweed",
+    "sustainability": 0.8
+  },
+  {
+    "id": "ankle_boots",
+    "category": "footwear",
+    "style": "casual",
+    "formality": 4,
+    "weather": "cool",
+    "color": "tan",
+    "material": "suede",
+    "sustainability": 0.7
+  },
+  {
+    "id": "chambray_shirt",
+    "category": "top",
+    "style": "casual",
+    "formality": 3,
+    "weather": "warm",
+    "color": "light_blue",
+    "material": "cotton",
+    "sustainability": 0.8
+  },
+  {
+    "id": "midi_dress_knit",
+    "category": "dress",
+    "style": "casual",
+    "formality": 4,
+    "weather": "cool",
+    "color": "rust",
+    "material": "knit",
+    "sustainability": 0.7
   }
 ]
