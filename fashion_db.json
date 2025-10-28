@@ -1,0 +1,22 @@
+[
+  {
+    "id": "navy_blazer",
+    "category": "outerwear",
+    "style": "semi-formal",
+    "formality": 7,
+    "weather": "cool",
+    "color": "navy",
+    "material": "wool",
+    "sustainability": 0.9
+  },
+  {
+    "id": "white_shirt",
+    "category": "top",
+    "style": "semi-formal",
+    "formality": 6,
+    "weather": "mild",
+    "color": "white",
+    "material": "cotton",
+    "sustainability": 0.8
+  }
+]
