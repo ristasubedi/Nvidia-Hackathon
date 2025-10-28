@@ -188,5 +188,3 @@ This project was created for the NVIDIA Hackathon, showcasing the integration of
 - [ ] Outfit history and favorites
 
 ---
-
-**Made with ❤️ for NVIDIA Hackathon**
